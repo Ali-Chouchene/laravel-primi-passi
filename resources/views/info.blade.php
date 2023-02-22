@@ -11,7 +11,6 @@
 </head>
 
 <body>
-
     <header>
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
             <div class="container d-flex justify-content-center">
@@ -35,9 +34,7 @@
                 <h1 class="text-center mb-5">{{$message}}</h1>
                 <a href="https://laravel.com/">{{$intro}}</a>
             </div>
-
     </main>
-
 </body>
 
 </html>
